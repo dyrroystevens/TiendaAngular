@@ -1,0 +1,15 @@
+{
+  "name": "App",
+  "version": "1.0.0",
+  "descripcion": "Aplicacion de Prueba",
+  "main": "Servidor.js",
+  "scripts": {
+    "test": "null",
+    "start": "node Servidor.js"
+  },
+  "author": "Dyrroy Stevens",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.11.0"
+  }
+}
